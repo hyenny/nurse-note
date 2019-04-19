@@ -23,5 +23,10 @@
 3. 액터는 상세조회할 노트를 클릭한다.
 4. 시스템은 플러스노트 상세 정보(글, 공감수 best 댓글 3개, 자동추천글, 댓글 목록)를 출력한다.
 
+## UI 프로토타입
+
+<img src="./images/noteList.png" width="400" height="500">
+<img src="./images/noteDetail.png" width="400" height="1000">
+
 
 
