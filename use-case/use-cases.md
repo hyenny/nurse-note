@@ -2,7 +2,7 @@
 
 ## Actors
 회원, 비회원 <br>
-<img src="./images/actors.jpg" width="300" height="300">
+<img src="./images/actors.jpg" width="400" height="400">
 
 ### 비회원
 - 시스템에 로그인 하지 않은 사용자
@@ -24,7 +24,7 @@
 
 
 ## Use-Cases
-<img src="./images/usecases.jpg" width="300" height="500">
+<img src="./images/usecases.jpg" width="400" height="500">
 
 ### [회원가입](uc001-SignUp.md)(비회원)
 - 비회원이 로그인을 위해 회원에 가입하는 것.
