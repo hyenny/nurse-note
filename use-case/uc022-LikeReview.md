@@ -1,4 +1,5 @@
 # UC022 - 리뷰 공감
+
 ## 주 액터(Primarty Actor)
 회원
 
