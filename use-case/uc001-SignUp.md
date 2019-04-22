@@ -39,4 +39,9 @@
     - 시스템은 입력된 암호가 일치하지 않음을 알린다.
 
 
+## UI 프로토타입
+<img src="./images/social-signUp.png" width="400" height="400">
+<img src="./images/signUp.png" width="400" height="400">
+
+
 
