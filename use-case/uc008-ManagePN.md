@@ -40,6 +40,7 @@
 
 ## UI 프로토타입
 <img src="./images/noteList-admin.png" width="400" height="500">
+<img src="./images/newNote-admin.png" width="400" height="400">
 
 
 
